@@ -1,4 +1,4 @@
-## Hi there 👋, I´m <a href="www.linkedin.com/in/danilo-alb</a>
+## Hi there 👋, I´m <a href="https://www.linkedin.com/in/danilo-alb">Danilo Alberto</a>
 
 -  I am currently in my second semester of computer science. 
 -  I’m currently learning: Python, C, HTML, CSS
